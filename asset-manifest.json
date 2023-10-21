@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wander%20the%20world/static/css/main.decdb0db.css",
+    "main.js": "/wander%20the%20world/static/js/main.e26fbc15.js",
+    "index.html": "/wander%20the%20world/index.html",
+    "main.decdb0db.css.map": "/wander%20the%20world/static/css/main.decdb0db.css.map",
+    "main.e26fbc15.js.map": "/wander%20the%20world/static/js/main.e26fbc15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.decdb0db.css",
+    "static/js/main.e26fbc15.js"
+  ]
+}
